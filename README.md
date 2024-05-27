@@ -9,4 +9,4 @@ npm run +
 ```
 
 ## Not much to see here
-I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things 🙃
+I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things! 🙃
