@@ -8,11 +8,6 @@ npm i
 npm run +
 ```
 
-## Not much to see here
-<<<<<<< HEAD
-I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things! 🙃 <br>
-Also exploring GitButler Windows beta so dont mind some random commits
-=======
 I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things! 🙃
 Also exploring GitButler Windows beta so dont mind some random commits<br>
 COMMIT ON DEV TO MERGE IN GITKRAKEN!
