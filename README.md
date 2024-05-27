@@ -1,0 +1,12 @@
+## How to run
+1. install packages (basiclly only typescript) **npm required**
+```sh
+npm i
+```
+2. run
+```sh
+npm run +
+```
+
+## Not much to see here
+I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things 🙃
