@@ -9,5 +9,5 @@ npm run +
 ```
 
 ## Not much to see here
-I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things! 🙃
+I'm just exploring some new (to me) exiting typescript concepts.. feel free to show me new shiny things! 🙃 <br>
 Also exploring GitButler Windows beta so dont mind some random commits
